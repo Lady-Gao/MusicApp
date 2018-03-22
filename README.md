@@ -4,15 +4,15 @@
 
 ## Build Setup
 
-![image](../git/1.png)
-![image](../git/2.png)
-![image](../git/3.png)
-![image](../git/4.png)
-![image](../git/5.png)
-![image](../git/6.png)
-![image](../git/7.png)
-![image](../git/8.png)
-![image](../git/9.png)
+![image](./git/1.png)
+![image](./git/2.png)
+![image](./git/3.png)
+![image](./git/4.png)
+![image](./git/5.png)
+![image](./git/6.png)
+![image](./git/7.png)
+![image](./git/8.png)
+![image](./git/9.png)
 ``` bash
 # install dependencies
 npm install
